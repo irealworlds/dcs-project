@@ -7,7 +7,7 @@ import Enumerations.LogicConnector;
 import Enumerations.TransitionCondition;
 import Enumerations.TransitionOperation;
 
-public class RoundAbout {
+public class Roundabout {
     public static void main(String[] args) {
 
         PetriNet pn = new PetriNet();
